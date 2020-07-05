@@ -6,7 +6,8 @@ url = "https://hackathon.tim.it/CRI2/status"
 
 payload = {}
 headers = {
-  'apikey': 'izz6sXoXn00q6TqYt6VmtWUCqBpznsPy'
+  # Replace with your API key
+  'apikey': 'xyladasjdj23knw22oo2no2'
 }
 
 response = requests.request("GET", url, headers=headers, data = payload)
