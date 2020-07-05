@@ -44,4 +44,5 @@ This application was written in Python. Make sure you have a version of Python 3
 
 ## Usage
 Run `python command.py` to start the robot.
+
 Run `python status.py` to check its status.
