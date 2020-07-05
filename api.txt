@@ -1,0 +1,17 @@
+{
+    "status": "OK",
+    "result": {
+        "kickstandState": 1,
+        "batteryIsFullyCharged": true,
+        "time": 1593891594,
+        "batteryPercent": 0.0,
+        "position": {
+            "y": -1.93,
+            "x": 14.55
+        },
+        "serial": "1234567",
+        "poleHeightPercent": 0.0,
+        "firmwareVersion": "1234567",
+        "batteryIsCharging": true
+    }
+}
